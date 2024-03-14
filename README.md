@@ -12,12 +12,12 @@
 
 Language : ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 
-Machine Learning Algorithms with ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=ffffff) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=ffffff) ![PyTorch](https://img.shields.io/badge/-PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff)
+Machine Learning Algorithms with ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=ffffff) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=ffffff) <!--![PyTorch](https://img.shields.io/badge/-PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff)-->
 
 Data Visualization: Creating insightful visualizations with ![Matplotlib](https://img.shields.io/badge/-Matplotlib-%230076D6?style=flat-square&logo=python&logoColor=ffffff)
  ![Pandas](https://img.shields.io/badge/-Pandas-%23150458?style=flat-square&logo=pandas&logoColor=ffffff) ![Seaborn](https://img.shields.io/badge/-Seaborn-%23747DBA?style=flat-square&logo=python&logoColor=ffffff)
 
-Statistical Analysis: Proficient in hypothesis testing and A/B testing with ![Scipy](https://img.shields.io/badge/-Scipy-%230C55A5?style=flat-square&logo=python&logoColor=ffffff) ![Statsmodels](https://img.shields.io/badge/-Statsmodels-%236440A7?style=flat-square&logo=python&logoColor=ffffff) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=ffffff)
+Statistical Analysis: Proficient in hypothesis testing and A/B testing with ![Scipy](https://img.shields.io/badge/-Scipy-%230C55A5?style=flat-square&logo=python&logoColor=ffffff) ![Statsmodels](https://img.shields.io/badge/-Statsmodels-%236440A7?style=flat-square&logo=python&logoColor=ffffff)
 
 Data Cleaning: Expertise in data preprocessing and handling missing data with ![Pandas](https://img.shields.io/badge/-Pandas-%23150458?style=flat-square&logo=pandas&logoColor=ffffff) ![NumPy](https://img.shields.io/badge/-NumPy-%23013243?style=flat-square&logo=numpy&logoColor=ffffff)
 
@@ -27,6 +27,6 @@ Deployment : ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat
 
 ## 🌱 Открыт к сотрудничеству
 
-Я всегда заинтересован в сотрудничестве над захватывающими проектами в области науки о данных, которые объединяют передовые технологии и бизнес-стратегию.
+Я всегда заинтересован в совместной работе над интересными проектами в области Data science, которые объединяют передовые технологии и бизнес.
 
 ## Благодарю за внимание! 😊 ❤️
