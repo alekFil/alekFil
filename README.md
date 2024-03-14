@@ -18,7 +18,7 @@
 
 Статистика, тестирование гипотез и А/B-тестирование : ![Scipy](https://img.shields.io/badge/-Scipy-%230C55A5?style=flat-square&logo=python&logoColor=ffffff) ![Statsmodels](https://img.shields.io/badge/-Statsmodels-%236440A7?style=flat-square&logo=python&logoColor=ffffff)
 
-Визуализация данных: Creating insightful visualizations with ![Matplotlib](https://img.shields.io/badge/-Matplotlib-%230076D6?style=flat-square&logo=python&logoColor=ffffff)
+Визуализация данных: ![Matplotlib](https://img.shields.io/badge/-Matplotlib-%230076D6?style=flat-square&logo=python&logoColor=ffffff)
  ![Pandas](https://img.shields.io/badge/-Pandas-%23150458?style=flat-square&logo=pandas&logoColor=ffffff) ![Seaborn](https://img.shields.io/badge/-Seaborn-%23747DBA?style=flat-square&logo=python&logoColor=ffffff)
 
 Базы данных : ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=ffffff) ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
