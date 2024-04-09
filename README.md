@@ -15,7 +15,7 @@
 Визуализация данных: ![Matplotlib](https://img.shields.io/badge/-Matplotlib-%230076D6?style=flat-square&logo=python&logoColor=ffffff)
  ![Pandas](https://img.shields.io/badge/-Pandas-%23150458?style=flat-square&logo=pandas&logoColor=ffffff) ![Seaborn](https://img.shields.io/badge/-Seaborn-%23747DBA?style=flat-square&logo=python&logoColor=ffffff)
 
-Базы данных: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=ffffff) ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+Базы данных: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=ffffff) <!-- ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff) -->
 
 Деплой: ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff)
 
