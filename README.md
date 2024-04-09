@@ -6,7 +6,7 @@
 
 Язык программирования: ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 
-Применение алгоритмов машинного обучения: ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=ffffff) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=ffffff) <!--![PyTorch](https://img.shields.io/badge/-PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff)-->
+Применение алгоритмов машинного обучения: ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=ffffff) <!--![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=ffffff)--> ![PyTorch](https://img.shields.io/badge/-PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff)
 
 Обработка данных: ![Pandas](https://img.shields.io/badge/-Pandas-%23150458?style=flat-square&logo=pandas&logoColor=ffffff) ![NumPy](https://img.shields.io/badge/-NumPy-%23013243?style=flat-square&logo=numpy&logoColor=ffffff)
 
