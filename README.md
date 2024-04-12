@@ -15,6 +15,13 @@
 - 📧 Email: [alekfil.ds@gmail.com](mailto:alekfil.ds@gmail.com)
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/alekfil/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height = '25px' width="30px"/> </a>
 
+### Реализованные проекты
+
+| № | Название проекта                                                   | Инструменты                           | Краткое описание                                         |
+| - |:------------------------------------------------------------------ |:-------------------------------------:| -------------------------------------------------------- |
+| 2 | [Samokat.tech](https://github.com/alekFil/Samokat.tech-Matching)   | `Python`, `Scikit-Learn`, `CatBoost`  | Задача мэтчинга/классификации от Samokat.tech            |
+
+
 ### Благодарю за внимание! 😊 ❤️
 
 ![](https://komarev.com/ghpvc/?username=alekfil&abbreviated=true&color=green&style=flat-square)
