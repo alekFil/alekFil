@@ -16,3 +16,5 @@
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/alekfil/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height = '25px' width="30px"/> </a>
 
 ### Благодарю за внимание! 😊 ❤️
+
+![](https://komarev.com/ghpvc/?username=alekfil&abbreviated=true&color=green&style=flat-square)
