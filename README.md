@@ -18,3 +18,4 @@
 ### Благодарю за внимание! 😊 ❤️
 
 ![](https://komarev.com/ghpvc/?username=alekfil&abbreviated=true&color=green&style=flat-square)
+![](https://hit.yhype.me/github/profile?user_id=131485747)
