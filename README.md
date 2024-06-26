@@ -14,8 +14,9 @@
 
 ### 🚀 Контактная информация
 
-- 📧 Email: [alekfil.ds@gmail.com](mailto:alekfil.ds@gmail.com)
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/alekfil/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height = '25px' width="30px"/> </a>
+📧 Email: [alekfil.ds@gmail.com](mailto:alekfil.ds@gmail.com)
+
+<a href="https://www.linkedin.com/in/alekfil/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/> </a>
 
 ### Благодарю за внимание! 😊 ❤️
 
