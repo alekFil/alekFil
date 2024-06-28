@@ -14,9 +14,10 @@
 
 ### 🚀 Контактная информация
 
-📧 Email: [alekfil.ds@gmail.com](mailto:alekfil.ds@gmail.com)
-
-<a href="https://www.linkedin.com/in/alekfil/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/> </a>
+<a href="https://www.linkedin.com/in/alekfil/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
+<a href="https://www.kaggle.com/alekfil"><img src="https://img.shields.io/badge/kaggle-blue?logo=kaggle&logoColor=white"/></a>
+![mail](https://img.shields.io/badge/-alekfil.ds@gmail.com-%23747DBA?logo=gmail&logoColor=ffffff)
+<!--📧 Email: [alekfil.ds@gmail.com](mailto:alekfil.ds@gmail.com)-->
 
 ### Благодарю за внимание! 😊 ❤️
 
