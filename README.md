@@ -24,9 +24,9 @@
   
 | № | Название проекта                                                   | Инструменты                           | Краткое описание                                         |
 | - |:------------------------------------------------------------------ |:-------------------------------------:| -------------------------------------------------------- |
-| 1 | [My champion app](https://github.com/alekFil/my_champion_app)   | `Python`, `Scikit-Learn`, `PyTorch, transformers`, `Pandas`, `Matplotlib`, `Seaborn`, `Streamlit` | Прогнозирование качества исполнения элементов фигурного катания            |
-| 2 | [Maternal health risk](https://github.com/alekFil/maternal_health_risk)   | `Python`, `Scikit-Learn`, `Pandas`, `Matplotlib`, `Seaborn`, `Streamlit`  | Разработка модели машинного обучения для прогнозирования рисков для здоровья беременных            |
-| 3 | [Genres classification via album's cover](https://github.com/alekFil/genres_classification)   | `Python`, `Scikit-Learn`, `PyTorch`, `Pandas`, `Matplotlib`, `Seaborn`  | Классификация жарнов на основе обложки музыкального альбома            |
+| 1 | [My champion app](https://github.com/alekFil/my_champion_app)   | `Python`, `Scikit-Learn`, `PyTorch, transformers`, `Pandas`, `Streamlit` | Прогнозирование качества исполнения элементов фигурного катания            |
+| 2 | [Maternal health risk](https://github.com/alekFil/maternal_health_risk)   | `Python`, `Scikit-Learn`, `Pandas`, `Streamlit`  | Разработка модели машинного обучения для прогнозирования рисков для здоровья беременных            |
+| 3 | [Genres classification via album's cover](https://github.com/alekFil/genres_classification)   | `Python`, `Scikit-Learn`, `PyTorch`, `Pandas`  | Классификация жарнов на основе обложки музыкального альбома            |
 | 4 | [Carprice by VIN](https://github.com/alekFil/carprice_by_vin)   | `Python`, `Scikit-Learn`, `CatBoost`, `re`  | Разработка модели машинного обучения для прогноза стоимости автомобилей по VIN-коду            |
 
 </details>
