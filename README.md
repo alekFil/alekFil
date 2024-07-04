@@ -14,9 +14,10 @@
 
 ### 🚀 Контактная информация
 
+✉️ E-mail: <a href="mailto:alekfil.ds@gmail.com">alekfil.ds@gmail.com</a>
+
 <a href="https://www.linkedin.com/in/alekfil/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
 <a href="https://www.kaggle.com/alekfil"><img src="https://img.shields.io/badge/kaggle-blue?logo=kaggle&logoColor=white"/></a>
-<a href="mailto:alekfil.ds@gmail.com"><img src="https://img.shields.io/badge/-alekfil.ds@gmail.com-%23747DBA?logo=gmail&logoColor=ffffff"/></a>
 
 ### 📁 Портфолио
 Перечень проектов для демонстрации ключевых навыков, применяемых в рабочих проектах под NDA (кликабельно).
