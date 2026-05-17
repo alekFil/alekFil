@@ -2,89 +2,52 @@
 
 ML / MLOps Engineer
 
-Занимаюсь разработкой production-систем для машинного обучения: inference-сервисов, feature pipelines, ML backend, видеоаналитики и инфраструктуры вокруг моделей.
+Разрабатываю production-системы для машинного обучения: ML backend, inference-сервисы, feature pipelines, видеоаналитику и ML infrastructure.
 
-Основной интерес — практические ML-системы, которые реально работают в production:
+Интересы:
+`Production ML` `MLOps` `ML Infrastructure` `Distributed Systems` `Self-Hosted AI`
 
-* backend для ML;
-* deployment и serving моделей;
-* feature engineering;
-* обработка данных и видео;
-* MLOps и инфраструктура.
+## 🛠️ Stack
 
-### 🛠️ Технологии
+**ML / Data:**  
+`Python` `PyTorch` `Scikit-Learn` `CatBoost` `Transformers` `Pandas` `Polars` `NumPy` `OpenCV` `MediaPipe`
 
-#### ML / Data
+**Backend / Infrastructure:**  
+`FastAPI` `PostgreSQL` `Redis` `Celery` `Docker` `Traefik` `Nginx` `MinIO`
 
-`Python` `PyTorch` `Scikit-Learn` `CatBoost` `Transformers`
-`Pandas` `Polars` `NumPy` `OpenCV` `MediaPipe`
+**MLOps:**  
+`MLflow` `Feast` `S3` `CI/CD` `ETL` `Microservices`
 
-#### Backend / Infrastructure
+## 🚀 Что делаю
 
-`FastAPI` `PostgreSQL` `Redis` `Celery`
-`Docker` `Traefik` `Nginx` `MinIO`
+- ML-сервисы и backend
+- Архитектура ML-систем
+- Online/offline feature pipelines
+- Model serving и inference optimization
+- Deployment и эксплуатация сервисов
+- Интеграция ML в production
 
-#### MLOps
+## 📌 Проекты
 
-`MLflow` `Feast` `S3` `Feature Store`
-`CI/CD` `ETL` `Microservices`
+**⚙️ ML Platform / Feature Store**  
+Разработка production-инфраструктуры для ML: online/offline feature storage, feature materialization pipelines, versioned datasets, feature serving, training/inference consistency.
+`Feast` `Redis` `PostgreSQL` `S3`
 
-### 🚀 Что делаю
+**📦 ML Infrastructure & Serving**  
+Разработка и deployment ML-сервисов: inference APIs, микросервисная архитектура, orchestration processing pipelines, background processing, containerized deployment.
+`FastAPI` `Celery` `Docker` `Traefik` `Nginx`
 
-* Разрабатываю ML-сервисы и backend
-* Проектирую архитектуру ML-систем
-* Строю online/offline feature pipelines
-* Оптимизирую inference и обработку данных
-* Работаю с deployment и эксплуатацией сервисов
-* Интегрирую ML-решения в бизнес-процессы
+**📊 ML Lifecycle & Experimentation**  
+Организация ML lifecycle: model registry, experiment tracking, dataset versioning, reproducible pipelines.
+`MLflow` `S3` `PostgreSQL`
 
-### 📌 Проекты
+**🎥 Figure Skating Video Analytics**  
+Распознавание прыжков и вращений на видео, skeleton tracking, sequence models, видеоаналитика.
+`PyTorch` `MediaPipe` `RAFT` `FastAPI` `Docker`
 
-#### Анализ видео выступлений фигуристов
-
-Система анализа видео с распознаванием прыжков и вращений:
-
-* skeleton tracking;
-* sequence models;
-* обработка видео;
-* генерация аналитики.
-
-**Стек:**
-`PyTorch` `MediaPipe` `RAFT` `FastAPI` `Docker` `Redis`
-
-#### Системы поиска дубликатов и entity matching
-
-Сервисы для:
-
-* поиска дубликатов;
-* сопоставления записей;
-* нормализации пользовательского ввода;
-* обнаружения аномалий в данных.
-
-**Технологии:**
+**🧠 Entity Matching & Data Quality**  
+Поиск дубликатов, entity matching, нормализация ввода, поиск аномалий.
 `BERT` `CatBoost` `FastAPI` `PostgreSQL`
-
-#### ML Platform / Feature Store
-
-Разработка инфраструктуры для production ML:
-
-* versioned datasets;
-* online/offline feature storage;
-* materialization pipelines;
-* model serving.
-
-**Стек:**
-`Feast` `MLflow` `Redis` `PostgreSQL`
-
-### 🔬 Интересы
-
-Сейчас в основном интересуют:
-
-* production ML;
-* MLOps;
-* distributed systems;
-* ML infrastructure;
-* self-hosted AI systems.
 
 ## 📫 Контакты
 
